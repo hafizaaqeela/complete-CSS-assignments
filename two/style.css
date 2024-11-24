@@ -1,0 +1,67 @@
+*{ font-family: serif;
+    font-stretch: narrower;
+}
+body{
+    margin-top: 10rem;
+    margin-left: 20rem;
+    background-color: rgb(47, 118, 148);
+}
+p, button{
+    margin-left: 130px;
+    font-weight: bolder;
+    text-align: justify;
+    border-radius: 25px;
+}
+.a{
+    height: 300px ;
+    width: 550px ;
+    background: linear-gradient(301deg, rgba(2,0,36,1) 0%, rgba(253,56,56,1) 0%, rgba(249,106,57,1) 44%, rgba(252,172,57,1) 100%);
+    padding: 2rem;
+    border-radius: 20px;
+}
+.b{
+    height: 200px ;
+    width: 450px;
+    background-color: rgba(245, 245, 245, 0.769);
+    border-radius: 30px;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    padding: 1.5rem;
+    margin-bottom: 5px;
+    height: 210px;
+    
+}
+.c{
+    height: 210px;
+    width: 170px;
+    background-color: #fd3838;
+    margin-top: -14rem;
+    margin-left: -4rem;
+    border-radius: 25px;
+}
+h1{
+    margin-left: 130px;
+    color: black;
+    text-shadow: 4px 2px 1px rgba(87, 83, 83, 0.445);
+}
+h1, button{
+    text-transform: capitalize;
+}
+button{
+    border-radius: 20px;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+    margin-left: 20rem;
+    padding: 10px;
+    border: #fd383874;
+    box-shadow: 4px 4px 2px gray;
+    background: linear-gradient(301deg, rgba(2,0,36,1) 0%, rgba(253,56,56,1) 0%, rgba(249,106,57,1) 44%, rgba(252,172,57,1) 100%);
+}
+img{
+    height: 180px;
+    width: 150px;
+    padding-top: 10px;
+    margin-left: 10px;
+}
+

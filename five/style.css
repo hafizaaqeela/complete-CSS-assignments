@@ -1,0 +1,77 @@
+body{
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 100px;
+    margin-left: 250px;
+    background-color: rgb(177, 201, 135);
+
+}
+
+li{
+    display: inline-block;
+    margin-left: 40px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+.home:hover{
+    color: orangered;
+}
+.main{
+    height: 400px;
+    width: 700px;
+    border: 10px double rgb(45, 40, 40);
+    padding: 30px;
+    padding-right: 50px;
+    background-color: rgb(185, 162, 142);
+}
+img{
+    height: 140px;
+    width: 210px;
+    margin: -5px;
+}
+.pic{
+    margin-left: -12px;
+}
+.four{
+    padding-left: 60px;
+    border: none;
+}
+.one{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 800;
+    margin-bottom: -3px;
+    font-size: 24px;
+}
+.two{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -1rem;
+}
+.three{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    font-size: 28px;
+    margin-top: -4.2rem;
+    margin-bottom: 10px;
+}
+ul{
+    width: 600px;
+    margin-left: 50px;
+    border-top: 3px solid black;
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
+p{
+    text-align: justify;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 30px;
+
+}

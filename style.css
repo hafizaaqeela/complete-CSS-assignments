@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(14, 77, 77);
+    color: rgb(7, 58, 58);
+}
+
+h1{
+    background-color: rgb(34, 193, 214);
+    color: black;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 2px rgba(48, 104, 102, 0.687);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 52px;
+    width: 30rem;
+    text-align: center;
+    margin-left: 450px;
+    padding: 20px;
+    margin-bottom: 4rem;
+    border-radius: 65px;
+    box-shadow: 5px 5px 3px rgb(0, 0, 0);
+}
+button{
+    background-color: rgb(34, 193, 214);
+    font-size: 42px;
+    text-transform: capitalize;
+    font-family: serif;
+    font-weight: bolder;
+    color:rgb(7, 58, 58) ;
+    text-shadow: 4px 4px 2px rgba(48, 104, 102, 0.687);
+    margin-left: 6rem;
+    padding: 20px;
+    margin-bottom: 2rem;
+    border-radius: 45px;
+    box-shadow: 5px 5px 3px rgb(0, 0, 0);
+}
+.css{
+    margin-left: 5rem;
+    color: rgb(7, 58, 58);
+}
+.one{
+    margin-left: 30rem;
+}

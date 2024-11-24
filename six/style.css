@@ -1,0 +1,83 @@
+body{
+    background-color: lightpink;
+}
+li{
+    display: inline-block;
+    margin-left: 10px;
+    text-transform: capitalize;
+}
+.main{
+    background-color: midnightblue;
+    height: 500px;
+    width: 900px;
+    padding-top: 5px;
+    margin: 100px;
+    margin-left: 160px;
+    border: 2px solid black;
+}
+ul{
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+    
+}
+.one{
+    margin-left: 450px;
+}
+.menu:active{
+    background-color: red;
+}
+button:hover{
+    background-color: yellow;
+    color: midnightblue;
+}
+.two{
+    height: 330px;
+    width: 410px;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: -1rem;
+}
+.three{
+    height: 330px;
+    width: 300px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+img{
+    margin-top: -170px;
+    margin-left: -80px;
+}
+.two{
+    color: whitesmoke;
+    text-transform: capitalize;
+   
+}
+span{
+    color: yellow;
+}
+h1{
+
+    text-shadow: 4px 4px 1px grey;
+    font-size: 48px;
+    margin-bottom: 1.5rem;
+}
+h2{
+   margin-top: -1.5rem;
+   font-size: 32px;
+   word-spacing: 0.4em;
+
+}
+p{
+    text-align: justify;
+}
+button{
+    margin-left: 300px;
+    background-color: midnightblue;
+    color: whitesmoke;
+    border-radius: 10px;
+    padding: 5px 10px;
+    text-transform: capitalize;
+    font-size: 16px;
+
+}
