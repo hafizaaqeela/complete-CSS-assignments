@@ -39,3 +39,7 @@ button{
 .one{
     margin-left: 30rem;
 }
+a{
+    text-decoration: none;
+    color: rgb(7, 58, 58);
+}
