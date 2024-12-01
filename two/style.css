@@ -64,4 +64,10 @@ img{
     padding-top: 10px;
     margin-left: 10px;
 }
-
+.image{
+    margin-top: -40rem;
+    margin-bottom: 10px;
+    margin-left: -9rem;
+    height: 10rem;
+    width: 8rem;
+}
